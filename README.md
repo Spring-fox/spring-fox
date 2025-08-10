@@ -1,4 +1,4 @@
-## CHOI HYUN JUNE - MASTER
+CHOI HYUN JUNE - MASTER
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/spring-fox?pet-id=1" width="1000" height="120" />
